@@ -1,0 +1,1 @@
+text = '''Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id neque turpis. Quisque ornare, lorem vel convallis tristique, nulla augue blandit felis, sed feugiat ipsum mi eget orci. Integer imperdiet, erat ac euismod fringilla, ex tortor egestas nibh, et convallis eros arcu vitae felis. Morbi varius metus at diam iacula ultrices at at elit.
